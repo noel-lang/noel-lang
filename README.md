@@ -4,3 +4,10 @@
 [![GitHub noel-lang](https://img.shields.io/github/followers/noel-lang?label=follow&style=social)](https://github.com/noel-lang)
 
 Hey there, I'm Noel. Cyber security student by day and freelancer by night.
+
+<ul>
+  <li>
+    🖥️ Completed my apprenticeship as "Computer Science Expert, Subject Area: Software Development" in 2019<br />
+    <em>German title: "Fachinformatiker Anwendungsentwicklung"</em>
+  </li>
+</ul>
