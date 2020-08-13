@@ -5,19 +5,23 @@
 
 Hey there, I'm Noel. Cyber security student by day and freelancer by night.
 
-<ul>
-  <li>
-    🖥️ Completed my apprenticeship as <strong>Computer Science Expert, Subject Area: Software Development</strong> in 2019<br />
-    <em>German title: "Fachinformatiker Anwendungsentwicklung"</em><br /><br />
-  </li>
-  
-  <li>
-    🖥️ My expertise lies in the following topics:
-      <ul>
-        <li><strong>Java</strong> - <em>Development of Webservices with Spring</em></li>
-        <li><strong>JavaScript</strong> - <em>Frontend development with React, scripting with node.js</em></li>
-        <li><strong>PHP</strong> - <em>Application development with Laravel</em></li>
-        <li><strong>SQL</strong> - <em>Design of relational database schemas</em></li>
-      </ul>
-  </li>
-</ul>
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🎓 &nbsp; Studying Computer Science/Software Technology at Technische Hochschule Mittelhessen.
+- 💼 &nbsp; Working as Dual Student inside of the Chief Security Office @ Deutsche Bank
+- 🌱 &nbsp; Currently learning Laravel to complete a custom software project
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | PHP
+- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | React
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Git | Markdown
+- 🖥 &nbsp; Premiere Pro | Photoshop
+
+
+<h3>⬇️ My Certifications</h3>
+
+- Apprenticeship as Computer Science Expert, Subject Area: Software Development (IHK)<br />
+<em>German title: "Fachinformatiker Anwendungsentwicklung"</em>
