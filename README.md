@@ -7,7 +7,7 @@ Hey there, I'm Noel. Cyber security student by day and freelancer by night.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science/Software Technology at Technische Hochschule Mittelhessen.
+- 🎓 &nbsp; Studying Computer Science/Software Technology at Technische Hochschule Mittelhessen
 - 💼 &nbsp; Working as Dual Student inside of the Chief Security Office @ Deutsche Bank
 - 🌱 &nbsp; Currently learning Laravel to complete a custom software project
 
