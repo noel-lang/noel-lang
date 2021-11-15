@@ -13,11 +13,14 @@ Hey there, I'm Noel. Cyber security student by day and freelancer by night.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | PHP
-- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | React
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; Premiere Pro | Photoshop
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 <h3>⬇️ My Certifications</h3>
