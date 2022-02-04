@@ -7,7 +7,7 @@ Hey there, I'm Noel. Cyber security student by day and freelancer by night.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as Expert Consultant @ Cofinpro AG
+- 💼 &nbsp; Working as Software Consultant @ Cofinpro AG
 - 🌱 &nbsp; Part time freelancer
 
 
