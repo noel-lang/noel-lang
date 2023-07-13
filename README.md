@@ -7,7 +7,7 @@ Hey there, I'm Noel.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as Software Consultant @ Cofinpro AG
+- 💼 &nbsp; Working as Software Engineer @ DekaBank Deutsche Girozentrale
 - 🌱 &nbsp; Part time freelancer
 
 
